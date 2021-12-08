@@ -13,4 +13,4 @@ Hi, My name is Youssef Najjarine. I am a software developer with a passion for f
 - Webpack
 - Babel
 
-
+[LinkedIn](https://www.linkedin.com/in/youssefnajjarine/)
