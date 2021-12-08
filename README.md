@@ -15,7 +15,7 @@ Hi, My name is Youssef Najjarine. I am a software developer with a passion for f
 :star2: Fun Facts!
 
 - I lived in :world_map: Tripoli, Lebanon
-- I had 2 cats :cat:
+- I had 2 cats :cat:.
 
 # :mailbox: Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/youssefnajjarine/)
