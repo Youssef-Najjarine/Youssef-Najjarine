@@ -1,18 +1,21 @@
+# Hello World :wave: :earth_americas:
+- :computer: Currently studying - React.js, JavaScript(ES5/ES6)WordPress
+
+
+- :books: Stack - JavaScript(ES5/ES6), HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, AJAX, Flexbox, HTTPie, Argon2
+
+- :hammer_and_wrench: Tools - Git, GitHub, VS Code, Figma, React Dev Tools, npm, webpack, Babel, Canva, Heroku, Google Cloud, Bootstrap
+
+- :coffee: Open to anything and everything!
+
 # :left_speech_bubble:   About Me
-___________________________________________________________________________________________________________________________________________________________________________________
+
 Hi, My name is Youssef Najjarine. I am a software developer with a passion for finding solutions and implementing new processes to facilitate production. I aim to continually develop more skills in software development and achieve personal growth.
 
-**Technologies used:**
+:star2: Fun Facts!
 
-- JavaScript 
-- Node.js 
-- React 
-- CSS
-- PostgreSQL
-- HTML5
-- Express
-- Argon2
-- Webpack
-- Babel
+- I lived in :world_map: Tripoli, Lebanon
+- I had 2 cats :cat:
 
-[LinkedIn](https://www.linkedin.com/in/youssefnajjarine/)
+# :mailbox: Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/youssefnajjarine/)
