@@ -1,5 +1,5 @@
 # Hello World :wave: :earth_americas:
-- :computer: Currently studying - React.js, JavaScript(ES5/ES6)WordPress
+- :computer: Currently studying - React.js, JavaScript(ES5/ES6), AngularJS
 
 
 - :books: Stack - JavaScript(ES5/ES6), HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, AJAX, Flexbox, HTTPie, Argon2
