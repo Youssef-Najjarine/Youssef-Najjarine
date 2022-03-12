@@ -2,7 +2,7 @@
 - :computer: Currently studying - React.js, JavaScript(ES5/ES6), AngularJS
 
 
-- :books: Stack - JavaScript(ES5/ES6), HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, AJAX, Flexbox, HTTPie, Argon2
+- :books: Stack - JavaScript(ES5/ES6), HTML5, CSS3, React.js, Node.js, Express.js, PostgreSQL, AJAX, jQuery, Figma, HTTPie, Argon2
 
 - :hammer_and_wrench: Tools - Git, GitHub, VS Code, Figma, React Dev Tools, npm, webpack, Babel, Canva, Heroku, Google Cloud, Bootstrap
 
