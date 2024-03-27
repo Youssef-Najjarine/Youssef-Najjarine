@@ -12,7 +12,6 @@
 
 Hi, My name is Youssef Najjarine. I am a software developer with a passion for finding solutions and implementing new processes to facilitate production. I aim to continually develop more skills in software development and achieve personal growth.
 
-Software Engineer at **Marcia Brenner Associates(MBA)**
 
 :star2: Fun Facts!
 
