@@ -8,7 +8,7 @@
 
 - :coffee: Open to anything and everything!
 
-####  You can check it out here:  https://youssef-najjarine.github.io/portfolio/
+####  Check out my portfolio here:  https://youssef-najjarine.github.io/portfolio/
 # :left_speech_bubble:   About Me
 
 Hi, My name is Youssef Najjarine. I am a software developer with a passion for finding solutions and implementing new processes to facilitate production. I aim to continually develop more skills in software development and achieve personal growth.
