@@ -6,7 +6,7 @@
 
 - :hammer_and_wrench: Tools - Git, Cmder, GitHub, VS Code, Figma, React Dev Tools, npm, webpack, Babel, Canva, Heroku, Google Cloud, Bootstrap
 
-- :coffee: Open to anything and everything
+- :coffee: Open to anything and everything!
 
 ####  Check out my portfolio here:  https://youssef-najjarine.github.io/portfolio/
 # :left_speech_bubble:   About Me
