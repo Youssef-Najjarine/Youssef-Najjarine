@@ -1,7 +1,7 @@
 # Hello World :wave: :earth_americas:
 
 
-- :books: Stack - JavaScript(ES5/ES6), React.js, AngularJS, Node.js, Express.js, SQL, PostgreSQL, Oracle, AJAX, jQuery, HTTPie, Argon2, Next.js, Vue.js, Tailwind CSS, Material UI, PHP and Python, HTML5, CSS3
+- :books: Stack - JavaScript/Typescript, HTML5, CSS3, PHP, React/Next.js, Angular, Vue.js, Tailwind CSS, Material UI, Node.js, Express.js, Python, Django, Laravel, MySQL, PostgreSQL, MongoDB, Oracle, AJAX, jQuery, HTTPie, Argon2
 
 - :hammer_and_wrench: Tools - Git, Cmder, GitHub, VS Code, Figma, React Dev Tools, npm, webpack, Babel, Canva, Heroku, Google Cloud, Bootstrap
 
