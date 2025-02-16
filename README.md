@@ -1,10 +1,9 @@
 # Hello World :wave: :earth_americas:
 
 
-- :books: Stack - JavaScript/Typescript, HTML5, CSS3, PHP, React/React Native, Next.js, Vue.js, Tailwind CSS, Material UI, Node.js, Express.js, Nest.js, Python, Django, Ruby on Rails, MySQL, PostgreSQL, MongoDB
-- 🔗 Blockchain - Smart Contract, Solidity, Rust, Web3.js, Ether.js, EVM, Solana, Cosmos
+- :books: Stack - JavaScript HTML5, CSS3, React, Next.js, Node.js, Express.js, Python, C#, Java, MySQL, PostgreSQL
 
-- :hammer_and_wrench: Tools - Git, Cmder, GitHub, VS Code, Figma, React Dev Tools, npm, webpack, Babel, Canva, Heroku, Google Cloud, Bootstrap
+- :hammer_and_wrench: Tools - Git, Cmder, GitHub, Eclipse, VS Code, Figma, React Dev Tools, npm, webpack, Babel, Canva, Heroku, Google Cloud, Bootstrap
 
 - :coffee: Open to anything and everything!
 
