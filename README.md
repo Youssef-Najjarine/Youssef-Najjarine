@@ -1,9 +1,9 @@
 # Hello World :wave: :earth_americas:
 
 
-- :books: Stack - JavaScript HTML5, CSS3, React, Next.js, Node.js, Express.js, Python, C#, Java, MySQL, PostgreSQL
+- :books: Stack - JavaScript, React.js, AngularJS, Node.js, Express.js, Python, C#, Java, MySQL, PostgreSQL, Oracle,  HTML5, CSS3
 
-- :hammer_and_wrench: Tools - Git, Cmder, GitHub, Eclipse, VS Code, Figma, React Dev Tools, npm, webpack, Babel, Canva, Heroku, Google Cloud, Bootstrap
+- :hammer_and_wrench: Tools - Git, Cmder, GitHub, GitLab, Eclipse, VS Code, Visual Studio, Figma, React Dev Tools, npm, webpack, Babel, Canva, Heroku, Google Cloud, Bootstrap
 
 - :coffee: Open to anything and everything!
 
